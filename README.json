@@ -1,0 +1,843 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contracts",
+          "description": "Lens Protocol contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2025-09-18T10:33:51Z",
+            "owner": "lens-protocol",
+            "repo": "core",
+            "stars": 2839
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React Native Lens UI Kit",
+          "description": "Lens UI Kit for React Native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-06T12:20:07Z",
+            "owner": "lens-protocol",
+            "repo": "react-native-lens-ui-kit",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lens SDK",
+          "description": "Official Lens SDK ⭐️",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T09:57:50Z",
+            "owner": "lens-protocol",
+            "repo": "lens-sdk",
+            "stars": 259
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens.js",
+          "description": "JavaScript SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-09T06:55:55Z",
+            "owner": "suhailkakar",
+            "repo": "lens.js",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens-use",
+          "description": "React hooks for Lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-10T22:43:18Z",
+            "owner": "memester-xyz",
+            "repo": "lens-use",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "use-lens",
+          "description": "Simplify usage of Lens API with graphql-codegen.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-02-15T10:56:16Z",
+            "owner": "use-lens",
+            "repo": "use-lens",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Subgraph",
+          "description": "The Graph subgraph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-09T20:05:26Z",
+            "owner": "protofire",
+            "repo": "lens-protocol-subgraph",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ticklens",
+          "description": "A JavaScript SDK to create your own Ticket solution with Lens Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-21T22:04:50Z",
+            "owner": "ArturVargas",
+            "repo": "ticklens.js",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens-token-gated-posts",
+          "description": "Token gated Lens posts example.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-17T01:15:50Z",
+            "owner": "jaencarrodine",
+            "repo": "lens-token-gated-posts",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LensPy",
+          "description": "Python library for the Lens Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-14T15:04:58Z",
+            "owner": "TobiasLoader",
+            "repo": "LensPy",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Greenhouse",
+          "description": "Grow and spread your web3 roots.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-25T16:36:59Z",
+            "owner": "dsimmons",
+            "repo": "greenhouse",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "worldcoin-on-lens",
+          "description": "Find out which people have World ID verified on Lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-15T19:44:10Z",
+            "owner": "AdamSchinzel",
+            "repo": "worldcoin-on-lens",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brand Kit",
+          "description": "Branding assets.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Talk-To-Lens",
+          "description": "Plugin for querying lens database with natural language.",
+          "children": []
+        }
+      ],
+      "title": "Libraries & Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "daoleno/lenskit",
+          "description": "Starter kit by daoleno.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-01-05T16:51:07Z",
+            "owner": "daoleno",
+            "repo": "lenskit",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "thirdweb-example/lens",
+          "description": "Starter kit for using Lens Protocol with the thirdweb SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-12T00:27:51Z",
+            "owner": "thirdweb-example",
+            "repo": "lens",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens-xmtp-push-expo-typescript-template",
+          "description": "An Expo template for building Web3 social apps integrated with Lens Protocol, XMTP, and Push Protocol (EPNS).",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-10-20T21:41:09Z",
+            "owner": "desoul-labs",
+            "repo": "lens-xmtp-push-expo-typescript-template",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Starter Kits"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lens Modules",
+          "description": "Repository for adding collect, follow and reference modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-16T17:18:13Z",
+            "owner": "lens-protocol",
+            "repo": "modules",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Poll Module",
+          "description": "Anonymous poll voting module.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Solidity",
+            "last_commit": "2022-10-27T06:26:19Z",
+            "owner": "allemanfredi",
+            "repo": "lens-protocol-poll-module",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Modules"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Momoka",
+          "description": "Open source code showing how you can verify the DA claims are true.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-09-18T09:51:28Z",
+                "owner": "lens-protocol",
+                "repo": "momoka",
+                "stars": 258
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2025-09-18T09:51:28Z",
+                "owner": "lens-protocol",
+                "repo": "momoka",
+                "stars": 258
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-18T09:51:28Z",
+            "owner": "lens-protocol",
+            "repo": "momoka",
+            "stars": 258
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Momoka Explorer",
+          "description": "DA explorer for Lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-04-30T14:22:47Z",
+            "owner": "lens-protocol",
+            "repo": "momoka-explorer",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Momoka"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learn"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "API examples",
+          "description": "Official API examples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-09-18T10:44:13Z",
+            "owner": "lens-protocol",
+            "repo": "api-examples",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frontend examples",
+          "description": "Example of a basic front end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-05-04T20:15:27Z",
+            "owner": "dabit3",
+            "repo": "lens-protocol-frontend",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens-gated-publications",
+          "description": "Example application implementing gated Lens posts, encryption, and decryption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-01-06T22:38:33Z",
+            "owner": "dabit3",
+            "repo": "lens-gated-publications",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lens Blog",
+          "description": "A minimal example of using Lens Protocol to build a blog.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-12T04:00:07Z",
+            "owner": "PatrickAlphaC",
+            "repo": "lens-blog",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lens-create-publication-example",
+          "description": "An example project showing how to create a publication using withSig and typed data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-03T15:09:45Z",
+            "owner": "dabit3",
+            "repo": "lens-create-publication-example",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Examples"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hey",
+          "description": "Decentralized and permissionless social media app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T15:47:46Z",
+            "owner": "slymnoyann",
+            "repo": "hey-1",
+            "stars": 29380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lenstube",
+          "description": "Decentralized video-sharing social media platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-23T13:38:07Z",
+            "owner": "tapexyz",
+            "repo": "tape",
+            "stars": 4456
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wired",
+          "description": "An open and decentralized web-based metaverse platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T16:00:51Z",
+            "owner": "unavi-xyz",
+            "repo": "unavi",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "World ID Lens",
+          "description": "Human verification for Lens Protocol with World ID.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Solidity",
+            "last_commit": "2024-05-24T12:14:44Z",
+            "owner": "worldcoin",
+            "repo": "world-id-lens",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rally",
+          "description": "Voice-based social app. Gather together to share, listen, learn and talk together in real time.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-05-31T12:14:24Z",
+            "owner": "rallydotfm",
+            "repo": "rally",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Focalize",
+          "description": "Quickly posting to Lens Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Svelte",
+            "last_commit": "2025-12-15T14:29:17Z",
+            "owner": "iPaulPro",
+            "repo": "focalize-extension",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pingpad",
+          "description": "Minimalist microblogging platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-03T13:48:20Z",
+            "owner": "flow-industries",
+            "repo": "paper",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lumiere",
+          "description": "Web3 video platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-11-03T03:30:23Z",
+            "owner": "m1guelpf",
+            "repo": "lumiere",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Inlens",
+          "description": "Find your friends from Twitter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-08-10T12:54:57Z",
+            "owner": "juancito-dev",
+            "repo": "inlens",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "re-meme",
+          "description": "The on-chain meme remixer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-15T15:07:52Z",
+            "owner": "WeAreNewt",
+            "repo": "re-meme",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainblog",
+          "description": "The decentralized blogging platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-21T00:45:07Z",
+            "owner": "jarrodwatts",
+            "repo": "chainblog",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Iris",
+          "description": "The future of decentralized social.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-11-18T00:34:43Z",
+            "owner": "irisxyz",
+            "repo": "iris",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lensdrop",
+          "description": "Reward your Lens Protocol followers and fans with airdrops and special prizes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-19T14:29:57Z",
+            "owner": "jelilat",
+            "repo": "lensdrop",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pinsta",
+          "description": "Decentralized Image & Video Sharing service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-17T20:34:05Z",
+            "owner": "jsonpreet",
+            "repo": "Pinsta",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InterplanetaryFonts",
+          "description": "A decentralized NFT marketplace for creators and collectors of Fonts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-03-27T01:27:55Z",
+            "owner": "interplanetaryfonts",
+            "repo": "interplanetaryfonts.xyz",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SendACoin",
+          "description": "Share your Lens profile, collect Payments, tips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-11-18T08:06:03Z",
+            "owner": "SendACoin",
+            "repo": "sendacoin.to",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lenshare",
+          "description": "Bridge your tweets to LensProtocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-30T13:05:03Z",
+            "owner": "Eversmile12",
+            "repo": "lenshare",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "twitter-clone-LensProtocol",
+          "description": "Decentralized Twitter clone built with Lens Protocol and Web3.storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-06T20:02:04Z",
+            "owner": "merdikim",
+            "repo": "twitter-clone-LensProtocol",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LensShareApp",
+          "description": "A decentralised video sharing social platform built on Lens Protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T01:47:03Z",
+            "owner": "nikomatt69",
+            "repo": "LensShareApp",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clipto",
+          "description": "Personalized videos from your favorite Creators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-15T00:10:33Z",
+            "owner": "Clipto-Platform",
+            "repo": "clipto-frontend",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cultivator",
+          "description": "Explore the Lens Protocol Social Graph.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-06T23:23:38Z",
+            "owner": "maui-r",
+            "repo": "cultivator",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reroot",
+          "description": "A browser extension for Twitter that lets you also post to Lens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-06-27T15:45:56Z",
+            "owner": "stuntzii",
+            "repo": "Reroot",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sepana",
+          "description": "Search and explore its posts, people, and connections.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-04-04T11:57:48Z",
+            "owner": "loudecho-ai",
+            "repo": "lens-search-frontend",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Encrypted Messaging for Lens",
+          "description": "Encrypt messages for a Lens Profile or their Followers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-07T20:15:19Z",
+            "owner": "GrgW",
+            "repo": "lens-encrypted-messaging-redacted",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Open Source"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Leaderboards WithLens",
+          "description": "Most followed, active, collected shared profiles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-09-16T14:55:23Z",
+            "owner": "m1guelpf",
+            "repo": "lens-leaderboard",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lens Analytics by addresszero",
+          "description": "Lens Protocol Explorer 📈🌿",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-28T17:03:22Z",
+            "owner": "untitledlabshq",
+            "repo": "lensanalytics",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lens Analytics by chiragbadhe",
+          "description": "Metrics On Lens Ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-05T20:32:02Z",
+            "owner": "chiragbadhe",
+            "repo": "lensanalytics-v1",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lenstats",
+          "description": "Find stats about your community and organize giveaways.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-26T11:18:35Z",
+            "owner": "0xadewale",
+            "repo": "lens-stats",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Stats & Dashboards"
+    },
+    {
+      "description": "MIT\n➕ Always verify the authenticity of the links",
+      "items": [],
+      "title": "LICENSE"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:35:06.399Z",
+    "original_repository": "juancito-dev/awesome-lens-protocol",
+    "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
+    "enhanced_repository": "enhansome/enhansome-lens-protocol",
+    "enhanced_repository_description": null,
+    "title": "Awesome lens protocol with stars"
+  }
+}
