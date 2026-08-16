@@ -436,7 +436,7 @@
             "last_commit": "2026-05-13T15:47:46Z",
             "owner": "slymnoyann",
             "repo": "hey-1",
-            "stars": 29381
+            "stars": 29380
           }
         },
         {
@@ -461,10 +461,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T18:37:39Z",
+            "last_commit": "2026-08-16T02:50:35Z",
             "owner": "unavi-xyz",
             "repo": "unavi",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:48:37.009Z",
+    "last_updated": "2026-08-16T09:49:52.356Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
     "enhanced_repository": "enhansome/enhansome-lens-protocol",
