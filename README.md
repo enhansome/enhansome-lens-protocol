@@ -37,7 +37,7 @@
 
 * [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,839 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
-* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 259 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-15 - Official Lens SDK ⭐️
+* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 259 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
 * [lens-use](https://github.com/memester-xyz/lens-use) ⭐ 94 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-10 - React hooks for Lens.
 * [use-lens](https://github.com/use-lens/use-lens) ⚠️ Archived - Simplify usage of Lens API with graphql-codegen.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._

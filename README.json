@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 572127668,
                 "language": "TypeScript",
-                "last_commit": "2026-08-15T00:44:17Z",
+                "last_commit": "2026-08-21T22:14:36Z",
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
                 "stars": 259
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 439941628,
                 "language": "Rust",
-                "last_commit": "2026-08-21T08:14:33Z",
+                "last_commit": "2026-08-21T22:27:10Z",
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 113
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:59:12.812Z",
+    "last_updated": "2026-08-22T09:49:38.001Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_id": 545639671,
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
