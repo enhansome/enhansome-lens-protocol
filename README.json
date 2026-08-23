@@ -17,7 +17,7 @@
                 "last_commit": "2025-09-18T10:33:51Z",
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2839
+                "stars": 2838
               }
             },
             {
@@ -470,7 +470,7 @@
                 "last_commit": "2026-05-23T13:38:07Z",
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4455
+                "stars": 4454
               }
             },
             {
@@ -482,7 +482,7 @@
                 "archived": false,
                 "id": 439941628,
                 "language": "Rust",
-                "last_commit": "2026-08-21T22:27:10Z",
+                "last_commit": "2026-08-22T14:36:00Z",
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 113
@@ -879,7 +879,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:49:38.001Z",
+    "last_updated": "2026-08-23T09:51:45.841Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_id": 545639671,
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
