@@ -7,6 +7,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Other contracts on the Lens modules repository",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 500494674,
+                "language": "TypeScript",
+                "last_commit": "2023-11-16T17:18:13Z",
+                "owner": "lens-protocol",
+                "repo": "modules",
+                "stars": 80
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contracts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Contracts",
               "description": "Lens Protocol contracts.",
               "children": [],
@@ -455,7 +477,7 @@
                 "last_commit": "2026-05-13T15:47:46Z",
                 "owner": "slymnoyann",
                 "repo": "hey-1",
-                "stars": 29382
+                "stars": 29383
               }
             },
             {
@@ -879,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:09:41.045Z",
+    "last_updated": "2026-08-24T14:30:20.573Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_id": 545639671,
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
