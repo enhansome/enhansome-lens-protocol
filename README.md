@@ -28,16 +28,16 @@
 
 ### Contracts
 
-* Other contracts on the [Lens modules repository](https://github.com/lens-protocol/modules/blob/master/addresses.json) ⭐ 80 | 🐛 4 | 🌐 TypeScript | 📅 2023-11-16
+* Other contracts on the [Lens modules repository](https://github.com/lens-protocol/modules/blob/master/addresses.json) ⭐ 79 | 🐛 4 | 🌐 TypeScript | 📅 2023-11-16
 * Polygon - Lens Hub Proxy: [0xdb46d1dc155634fbc732f92e853b10b288ad5a1d](https://polygonscan.com/address/0xdb46d1dc155634fbc732f92e853b10b288ad5a1d)
 * Mumbai - Lens Hub Proxy: [0x60Ae865ee4C725cd04353b5AAb364553f56ceF82](https://mumbai.polygonscan.com/address/0x60Ae865ee4C725cd04353b5AAb364553f56ceF82)
 * Sandbox - Lens Hub Proxy: [0x7582177F9E536aB0b6c721e11f383C326F2Ad1D5](https://mumbai.polygonscan.com/address/0x7582177F9E536aB0b6c721e11f383C326F2Ad1D5)
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,838 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,837 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
-* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 259 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21 - Official Lens SDK ⭐️
+* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
 * [lens-use](https://github.com/memester-xyz/lens-use) ⭐ 94 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-10 - React hooks for Lens.
 * [use-lens](https://github.com/use-lens/use-lens) ⚠️ Archived - Simplify usage of Lens API with graphql-codegen.
@@ -61,16 +61,16 @@
 
 ### Modules
 
-* [Lens Modules](https://github.com/lens-protocol/modules) ⭐ 80 | 🐛 4 | 🌐 TypeScript | 📅 2023-11-16 - Repository for adding collect, follow and reference modules.
+* [Lens Modules](https://github.com/lens-protocol/modules) ⭐ 79 | 🐛 4 | 🌐 TypeScript | 📅 2023-11-16 - Repository for adding collect, follow and reference modules.
 * [Poll Module](https://github.com/allemanfredi/lens-protocol-poll-module) ⭐ 9 | 🐛 0 | 🌐 Solidity | 📅 2022-10-27 - Anonymous poll voting module.
 
 ### Momoka
 
 > Momoka refers to an Optimistic L3 - a hybrid taking the best from both Optimistic Rollups and L3 technologies.
 
-* [Momoka](https://github.com/lens-protocol/momoka) ⭐ 258 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18 - Open source code showing how you can verify the DA claims are true.
-  * [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node) ⭐ 258 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
-  * [Rust client](https://github.com/lens-protocol/momoka/tree/master/momoka-rs) ⭐ 258 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
+* [Momoka](https://github.com/lens-protocol/momoka) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18 - Open source code showing how you can verify the DA claims are true.
+  * [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
+  * [Rust client](https://github.com/lens-protocol/momoka/tree/master/momoka-rs) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
 * [Momoka Explorer](https://github.com/lens-protocol/momoka-explorer) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2024-04-30 - DA explorer for Lens.
 * [Momoka Explorer Web](https://momoka.lens.xyz/)
 
@@ -90,7 +90,7 @@
 
 ### Examples
 
-* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 262 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
+* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 261 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
 * [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 136 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
 * [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-06 - Example application implementing gated Lens posts, encryption, and decryption.
 * [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-12 - A minimal example of using Lens Protocol to build a blog.

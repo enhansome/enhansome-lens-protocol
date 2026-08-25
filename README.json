@@ -17,7 +17,7 @@
                 "last_commit": "2023-11-16T17:18:13Z",
                 "owner": "lens-protocol",
                 "repo": "modules",
-                "stars": 80
+                "stars": 79
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2025-09-18T10:33:51Z",
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2838
+                "stars": 2837
               }
             },
             {
@@ -69,7 +69,7 @@
                 "last_commit": "2026-08-21T22:14:36Z",
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
-                "stars": 259
+                "stars": 258
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2023-11-16T17:18:13Z",
                 "owner": "lens-protocol",
                 "repo": "modules",
-                "stars": 80
+                "stars": 79
               }
             },
             {
@@ -320,7 +320,7 @@
                     "last_commit": "2025-09-18T09:51:28Z",
                     "owner": "lens-protocol",
                     "repo": "momoka",
-                    "stars": 258
+                    "stars": 257
                   }
                 },
                 {
@@ -335,7 +335,7 @@
                     "last_commit": "2025-09-18T09:51:28Z",
                     "owner": "lens-protocol",
                     "repo": "momoka",
-                    "stars": 258
+                    "stars": 257
                   }
                 }
               ],
@@ -346,7 +346,7 @@
                 "last_commit": "2025-09-18T09:51:28Z",
                 "owner": "lens-protocol",
                 "repo": "momoka",
-                "stars": 258
+                "stars": 257
               }
             },
             {
@@ -389,7 +389,7 @@
                 "last_commit": "2025-09-18T10:44:13Z",
                 "owner": "lens-protocol",
                 "repo": "api-examples",
-                "stars": 262
+                "stars": 261
               }
             },
             {
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:26:10.771Z",
+    "last_updated": "2026-08-25T09:59:34.188Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_id": 545639671,
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
