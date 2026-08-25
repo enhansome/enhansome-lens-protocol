@@ -504,7 +504,7 @@
                 "archived": false,
                 "id": 439941628,
                 "language": "Rust",
-                "last_commit": "2026-08-22T14:36:00Z",
+                "last_commit": "2026-08-25T03:39:12Z",
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 113
@@ -901,7 +901,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:30:20.573Z",
+    "last_updated": "2026-08-25T06:26:10.771Z",
     "original_repository": "juancito-dev/awesome-lens-protocol",
     "original_repository_id": 545639671,
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
