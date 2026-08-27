@@ -66,7 +66,7 @@
                 "archived": false,
                 "id": 572127668,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T22:14:36Z",
+                "last_commit": "2026-08-26T23:08:57Z",
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
                 "stars": 258
@@ -477,7 +477,7 @@
                 "last_commit": "2026-05-13T15:47:46Z",
                 "owner": "slymnoyann",
                 "repo": "hey-1",
-                "stars": 29383
+                "stars": 29381
               }
             },
             {
@@ -901,9 +901,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T10:04:33.752Z",
-    "original_repository": "juancito-dev/awesome-lens-protocol",
-    "original_repository_id": 545639671,
+    "last_updated": "2026-08-27T11:48:55.564Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 545639671,
+      "language": null,
+      "last_commit": "2026-02-04T14:54:22Z",
+      "owner": "juancito-dev",
+      "repo": "awesome-lens-protocol",
+      "stars": 233
+    },
     "original_repository_sha": "9ae010e0c925da0b035d9c563b2bc8ee2f2a87ba",
     "enhanced_repository": "enhansome/enhansome-lens-protocol",
     "enhanced_repository_description": null,
