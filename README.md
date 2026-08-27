@@ -35,7 +35,7 @@
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,837 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,836 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
 * [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
