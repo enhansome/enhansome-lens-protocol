@@ -18,7 +18,8 @@
                 "owner": "lens-protocol",
                 "repo": "modules",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "lens-protocol",
                 "repo": "core",
                 "stars": 2836
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "lens-protocol",
                 "repo": "react-native-lens-ui-kit",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
                 "stars": 258
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "suhailkakar",
                 "repo": "lens.js",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "memester-xyz",
                 "repo": "lens-use",
                 "stars": 94
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "use-lens",
                 "repo": "use-lens",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "protofire",
                 "repo": "lens-protocol-subgraph",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "ArturVargas",
                 "repo": "ticklens.js",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "jaencarrodine",
                 "repo": "lens-token-gated-posts",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "TobiasLoader",
                 "repo": "LensPy",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "dsimmons",
                 "repo": "greenhouse",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "AdamSchinzel",
                 "repo": "worldcoin-on-lens",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": null,
@@ -227,7 +240,8 @@
                 "owner": "daoleno",
                 "repo": "lenskit",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -242,7 +256,8 @@
                 "owner": "thirdweb-example",
                 "repo": "lens",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "desoul-labs",
                 "repo": "lens-xmtp-push-expo-typescript-template",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": null,
@@ -279,7 +295,8 @@
                 "owner": "lens-protocol",
                 "repo": "modules",
                 "stars": 79
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -294,7 +311,8 @@
                 "owner": "allemanfredi",
                 "repo": "lens-protocol-poll-module",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": null,
@@ -321,7 +339,8 @@
                     "owner": "lens-protocol",
                     "repo": "momoka",
                     "stars": 257
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:57:34.844Z"
                 },
                 {
                   "node_type": "item",
@@ -336,7 +355,8 @@
                     "owner": "lens-protocol",
                     "repo": "momoka",
                     "stars": 257
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:57:34.844Z"
                 }
               ],
               "repo_info": {
@@ -347,7 +367,8 @@
                 "owner": "lens-protocol",
                 "repo": "momoka",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -362,7 +383,8 @@
                 "owner": "lens-protocol",
                 "repo": "momoka-explorer",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": "Momoka refers to an Optimistic L3 - a hybrid taking the best from both Optimistic Rollups and L3 technologies.",
@@ -390,7 +412,8 @@
                 "owner": "lens-protocol",
                 "repo": "api-examples",
                 "stars": 261
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -405,7 +428,8 @@
                 "owner": "dabit3",
                 "repo": "lens-protocol-frontend",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -420,7 +444,8 @@
                 "owner": "dabit3",
                 "repo": "lens-gated-publications",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -435,7 +460,8 @@
                 "owner": "PatrickAlphaC",
                 "repo": "lens-blog",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -450,7 +476,8 @@
                 "owner": "dabit3",
                 "repo": "lens-create-publication-example",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": null,
@@ -478,7 +505,8 @@
                 "owner": "slymnoyann",
                 "repo": "hey-1",
                 "stars": 29381
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -493,7 +521,8 @@
                 "owner": "tapexyz",
                 "repo": "tape",
                 "stars": 4454
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -504,11 +533,12 @@
                 "archived": false,
                 "id": 439941628,
                 "language": "Rust",
-                "last_commit": "2026-08-25T16:17:43Z",
+                "last_commit": "2026-08-27T20:29:49Z",
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 113
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -523,7 +553,8 @@
                 "owner": "worldcoin",
                 "repo": "world-id-lens",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -538,7 +569,8 @@
                 "owner": "rallydotfm",
                 "repo": "rally",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -553,7 +585,8 @@
                 "owner": "iPaulPro",
                 "repo": "focalize-extension",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -568,7 +601,8 @@
                 "owner": "flow-industries",
                 "repo": "paper",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -583,7 +617,8 @@
                 "owner": "m1guelpf",
                 "repo": "lumiere",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -598,7 +633,8 @@
                 "owner": "juancito-dev",
                 "repo": "inlens",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -613,7 +649,24 @@
                 "owner": "WeAreNewt",
                 "repo": "re-meme",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Lensdrop",
+              "description": "Reward your Lens Protocol followers and fans with airdrops and special prizes.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 507159508,
+                "language": "TypeScript",
+                "last_commit": "2023-04-19T14:29:57Z",
+                "owner": "jelilat",
+                "repo": "lensdrop",
+                "stars": 18
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -628,7 +681,8 @@
                 "owner": "jarrodwatts",
                 "repo": "chainblog",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -643,22 +697,8 @@
                 "owner": "irisxyz",
                 "repo": "iris",
                 "stars": 17
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Lensdrop",
-              "description": "Reward your Lens Protocol followers and fans with airdrops and special prizes.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 507159508,
-                "language": "TypeScript",
-                "last_commit": "2023-04-19T14:29:57Z",
-                "owner": "jelilat",
-                "repo": "lensdrop",
-                "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -673,7 +713,8 @@
                 "owner": "jsonpreet",
                 "repo": "Pinsta",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -688,7 +729,8 @@
                 "owner": "interplanetaryfonts",
                 "repo": "interplanetaryfonts.xyz",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -703,7 +745,8 @@
                 "owner": "SendACoin",
                 "repo": "sendacoin.to",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -718,7 +761,8 @@
                 "owner": "Eversmile12",
                 "repo": "lenshare",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -733,7 +777,8 @@
                 "owner": "merdikim",
                 "repo": "twitter-clone-LensProtocol",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -748,7 +793,8 @@
                 "owner": "nikomatt69",
                 "repo": "LensShareApp",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -763,7 +809,8 @@
                 "owner": "Clipto-Platform",
                 "repo": "clipto-frontend",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -778,7 +825,8 @@
                 "owner": "maui-r",
                 "repo": "cultivator",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -793,7 +841,8 @@
                 "owner": "stuntzii",
                 "repo": "Reroot",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -808,7 +857,8 @@
                 "owner": "loudecho-ai",
                 "repo": "lens-search-frontend",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             },
             {
               "node_type": "item",
@@ -823,7 +873,8 @@
                 "owner": "GrgW",
                 "repo": "lens-encrypted-messaging-redacted",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
             }
           ],
           "description": "Add or tag to the repository for easy discoverability",
@@ -849,7 +900,8 @@
             "owner": "m1guelpf",
             "repo": "lens-leaderboard",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T20:57:34.844Z"
         },
         {
           "node_type": "item",
@@ -864,7 +916,8 @@
             "owner": "untitledlabshq",
             "repo": "lensanalytics",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T20:57:34.844Z"
         },
         {
           "node_type": "item",
@@ -879,7 +932,8 @@
             "owner": "chiragbadhe",
             "repo": "lensanalytics-v1",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T20:57:34.844Z"
         },
         {
           "node_type": "item",
@@ -894,14 +948,15 @@
             "owner": "0xadewale",
             "repo": "lens-stats",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T20:57:34.844Z"
         }
       ],
       "title": "Stats & Dashboards"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:54:30.716Z",
+    "last_updated": "2026-08-28T20:57:34.844Z",
     "original_repository_info": {
       "archived": false,
       "id": 545639671,

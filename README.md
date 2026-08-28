@@ -104,7 +104,7 @@
 
 * [Hey](https://github.com/heyverse/hey) ⭐ 29,381 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-13 - Decentralized and permissionless social media app.
 * [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,454 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
-* [Wired](https://github.com/wired-labs/wired) ⭐ 113 | 🐛 6 | 🌐 Rust | 📅 2026-08-25 - An open and decentralized web-based metaverse platform.
+* [Wired](https://github.com/wired-labs/wired) ⭐ 113 | 🐛 6 | 🌐 Rust | 📅 2026-08-27 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
@@ -112,9 +112,9 @@
 * [Lumiere](https://github.com/m1guelpf/lumiere) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2022-11-03 - Web3 video platform.
 * [Inlens](https://github.com/0xJuancito/inlens) ⭐ 27 | 🐛 5 | 🌐 TypeScript | 📅 2023-08-10 - Find your friends from Twitter.
 * [re-meme](https://github.com/WeAreNewt/re-meme) ⭐ 23 | 🐛 64 | 🌐 TypeScript | 📅 2022-12-15 - The on-chain meme remixer.
+* [Lensdrop](https://github.com/jelilat/lensdrop) ⭐ 18 | 🐛 2 | 🌐 TypeScript | 📅 2023-04-19 - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 * [Chainblog](https://github.com/jarrodwatts/chainblog) ⭐ 17 | 🐛 0 | 🌐 TypeScript | 📅 2023-01-21 - The decentralized blogging platform.
 * [Iris](https://github.com/irisxyz/iris) ⭐ 17 | 🐛 1 | 🌐 JavaScript | 📅 2022-11-18 - The future of decentralized social.
-* [Lensdrop](https://github.com/jelilat/lensdrop) ⭐ 17 | 🐛 2 | 🌐 TypeScript | 📅 2023-04-19 - Reward your Lens Protocol followers and fans with airdrops and special prizes.
 * [Pinsta](https://github.com/jsonpreet/Pinsta) ⭐ 15 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-17 - Decentralized Image & Video Sharing service.
 * [InterplanetaryFonts](https://github.com/interplanetaryfonts/interplanetaryfonts.xyz) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2023-03-27 - A decentralized NFT marketplace for creators and collectors of Fonts.
 * [SendACoin](https://github.com/SendACoin/sendacoin.to) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-18 - Share your Lens profile, collect Payments, tips.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
