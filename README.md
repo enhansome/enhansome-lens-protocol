@@ -35,7 +35,7 @@
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,836 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,835 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
 * [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
@@ -102,8 +102,8 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,382 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-13 - Decentralized and permissionless social media app.
-* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,454 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,379 | 🐛 7 | 🌐 TypeScript | 📅 2026-05-13 - Decentralized and permissionless social media app.
+* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,453 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
 * [Wired](https://github.com/wired-labs/wired) ⭐ 113 | 🐛 6 | 🌐 Rust | 📅 2026-08-27 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
