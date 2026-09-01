@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4453,
+                "stars": 4452,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -744,7 +744,7 @@
                 "open_issues": 6,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
-                "stars": 113,
+                "stars": 114,
                 "topics": [
                   "3d",
                   "bevy",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T17:10:28.784Z",
+    "last_updated": "2026-09-01T14:13:47.107Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
