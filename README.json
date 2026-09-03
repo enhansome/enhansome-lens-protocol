@@ -87,7 +87,7 @@
                 "id": 572127668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-08-26T23:08:57Z",
+                "last_commit": "2026-09-03T02:04:55Z",
                 "open_issues": 13,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T13:45:44.080Z",
+    "last_updated": "2026-09-03T13:44:01.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
