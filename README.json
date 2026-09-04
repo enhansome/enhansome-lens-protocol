@@ -49,7 +49,7 @@
                 "open_issues": 7,
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2835,
+                "stars": 2837,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -87,8 +87,8 @@
                 "id": 572127668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-03T02:04:55Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-04T01:23:35Z",
+                "open_issues": 14,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
                 "stars": 258,
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4452,
+                "stars": 4453,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-08-27T20:29:49Z",
+                "last_commit": "2026-09-03T22:22:38Z",
                 "open_issues": 6,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:44:01.328Z",
+    "last_updated": "2026-09-04T13:40:00.201Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
