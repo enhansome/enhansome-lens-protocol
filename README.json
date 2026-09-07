@@ -682,10 +682,10 @@
                 "id": 471728341,
                 "language": "TypeScript",
                 "license": "GPL-3.0",
-                "last_commit": "2026-05-13T15:47:46Z",
+                "last_commit": "2026-09-06T19:08:14Z",
                 "open_issues": 7,
                 "owner": "slymnoyann",
-                "repo": "hey-1",
+                "repo": "hey.xyz",
                 "stars": 29379,
                 "topics": [
                   "blockchain",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T13:01:07.102Z",
+    "last_updated": "2026-09-07T15:08:09.397Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
