@@ -87,7 +87,7 @@
                 "id": 572127668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-10T01:13:55Z",
+                "last_commit": "2026-09-11T03:32:28Z",
                 "open_issues": 14,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29375,
+                "stars": 29373,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-09-03T22:22:38Z",
+                "last_commit": "2026-09-11T10:48:52Z",
                 "open_issues": 6,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:43:57.323Z",
+    "last_updated": "2026-09-11T13:42:06.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
