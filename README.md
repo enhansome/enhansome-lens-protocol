@@ -35,10 +35,10 @@
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,836 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,835 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
 * [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-11 - Official Lens SDK ⭐️
-* [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 124 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
+* [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 123 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
 * [lens-use](https://github.com/memester-xyz/lens-use) ⭐ 94 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-10 - React hooks for Lens.
 * [use-lens](https://github.com/use-lens/use-lens) ⚠️ Archived - Simplify usage of Lens API with graphql-codegen.
 * [Subgraph](https://github.com/protofire/lens-protocol-subgraph) ⭐ 41 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-09 - The Graph subgraph.
@@ -55,7 +55,7 @@
 
 ### Starter Kits
 
-* [daoleno/lenskit](https://github.com/daoleno/lenskit) ⭐ 67 | 🐛 1 | 🌐 TypeScript | 📅 2024-01-05 - Starter kit by daoleno.
+* [daoleno/lenskit](https://github.com/daoleno/lenskit) ⭐ 66 | 🐛 1 | 🌐 TypeScript | 📅 2024-01-05 - Starter kit by daoleno.
 * [thirdweb-example/lens](https://github.com/thirdweb-example/lens) ⭐ 45 | 🐛 1 | 🌐 TypeScript | 📅 2024-04-12 - Starter kit for using Lens Protocol with the thirdweb SDK.
 * [lens-xmtp-push-expo-typescript-template](https://github.com/desoul-labs/lens-xmtp-push-expo-typescript-template) ⚠️ Archived - An Expo template for building Web3 social apps integrated with Lens Protocol, XMTP, and Push Protocol (EPNS).
 
@@ -90,8 +90,8 @@
 
 ### Examples
 
-* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 261 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
-* [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 136 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
+* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 260 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
+* [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 135 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
 * [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-06 - Example application implementing gated Lens posts, encryption, and decryption.
 * [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-12 - A minimal example of using Lens Protocol to build a blog.
 * [lens-create-publication-example](https://github.com/dabit3/lens-create-publication-example) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-03 - An example project showing how to create a publication using withSig and typed data.
@@ -102,7 +102,7 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,373 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,371 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
 * [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,454 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
 * [Wired](https://github.com/wired-labs/wired) ⭐ 114 | 🐛 6 | 🌐 Rust | 📅 2026-09-11 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
