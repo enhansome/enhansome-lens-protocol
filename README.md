@@ -102,7 +102,7 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,368 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,366 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
 * [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,453 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
 * [Wired](https://github.com/wired-labs/wired) ⭐ 114 | 🐛 6 | 🌐 Rust | 📅 2026-09-11 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
