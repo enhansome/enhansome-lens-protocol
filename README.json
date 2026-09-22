@@ -70,7 +70,7 @@
                 "open_issues": 4,
                 "owner": "lens-protocol",
                 "repo": "react-native-lens-ui-kit",
-                "stars": 497,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -91,7 +91,7 @@
                 "open_issues": 14,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
-                "stars": 258,
+                "stars": 257,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29364,
+                "stars": 29363,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T15:58:14.394Z",
+    "last_updated": "2026-09-22T14:06:25.761Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
