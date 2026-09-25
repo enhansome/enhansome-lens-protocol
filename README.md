@@ -37,7 +37,7 @@
 
 * [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,835 | 🐛 7 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 496 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
-* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 257 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-24 - Official Lens SDK ⭐️
+* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 257 | 🐛 14 | 🌐 TypeScript | 📅 2026-09-25 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 123 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
 * [lens-use](https://github.com/memester-xyz/lens-use) ⭐ 94 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-10 - React hooks for Lens.
 * [use-lens](https://github.com/use-lens/use-lens) ⚠️ Archived - Simplify usage of Lens API with graphql-codegen.
@@ -120,8 +120,8 @@
 * [SendACoin](https://github.com/SendACoin/sendacoin.to) ⭐ 11 | 🐛 0 | 🌐 TypeScript | 📅 2023-11-18 - Share your Lens profile, collect Payments, tips.
 * [Lenshare](https://github.com/Eversmile12/lenshare) ⭐ 9 | 🐛 1 | 🌐 TypeScript | 📅 2023-03-30 - Bridge your tweets to LensProtocol.
 * [twitter-clone-LensProtocol](https://github.com/Merdi-kim/twitter-clone-LensProtocol) ⭐ 8 | 🐛 2 | 🌐 JavaScript | 📅 2023-02-06 - Decentralized Twitter clone built with Lens Protocol and Web3.storage.
+* [Clipto](https://github.com/Clipto-Platform/clipto-frontend) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2022-10-15 - Personalized videos from your favorite Creators.
 * [LensShareApp](https://github.com/nikomatt69/LensShareApp) ⭐ 6 | 🐛 63 | 🌐 TypeScript | 📅 2026-02-07 - A decentralised video sharing social platform built on Lens Protocol.
-* [Clipto](https://github.com/Clipto-Platform/clipto-frontend) ⭐ 5 | 🐛 2 | 🌐 TypeScript | 📅 2022-10-15 - Personalized videos from your favorite Creators.
 * [Cultivator](https://github.com/maui-r/cultivator) ⭐ 5 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-06 - Explore the Lens Protocol Social Graph.
 * [Reroot](https://github.com/stuntzii/Reroot) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-27 - A browser extension for Twitter that lets you also post to Lens.
 * [Sepana](https://github.com/sepana-io/lens-search-frontend) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-04 - Search and explore its posts, people, and connections.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._

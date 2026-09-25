@@ -87,7 +87,7 @@
                 "id": 572127668,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-24T06:34:16Z",
+                "last_commit": "2026-09-25T03:16:54Z",
                 "open_issues": 14,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
@@ -1147,6 +1147,27 @@
             },
             {
               "node_type": "item",
+              "title": "Clipto",
+              "description": "Personalized videos from your favorite Creators.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Front facing website for clipto",
+                "homepage": "https://clipto.io",
+                "id": 439719577,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2022-10-15T00:10:33Z",
+                "open_issues": 2,
+                "owner": "Clipto-Platform",
+                "repo": "clipto-frontend",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
+            },
+            {
+              "node_type": "item",
               "title": "LensShareApp",
               "description": "A decentralised video sharing social platform built on Lens Protocol.",
               "children": [],
@@ -1169,27 +1190,6 @@
                   "nextjs",
                   "xmtp"
                 ]
-              },
-              "first_seen": "2026-08-28T20:57:34.844Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Clipto",
-              "description": "Personalized videos from your favorite Creators.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Front facing website for clipto",
-                "homepage": "https://clipto.io",
-                "id": 439719577,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2022-10-15T00:10:33Z",
-                "open_issues": 2,
-                "owner": "Clipto-Platform",
-                "repo": "clipto-frontend",
-                "stars": 5,
-                "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
             },
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:17:05.923Z",
+    "last_updated": "2026-09-25T14:40:18.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
