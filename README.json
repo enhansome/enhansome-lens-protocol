@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Other contracts on the Lens modules repository",
-              "description": null,
+              "description": "lens-protocol/modules",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -456,7 +456,7 @@
                 {
                   "node_type": "item",
                   "title": "Node client",
-                  "description": null,
+                  "description": "lens-protocol/momoka",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -477,7 +477,7 @@
                 {
                   "node_type": "item",
                   "title": "Rust client",
-                  "description": null,
+                  "description": "lens-protocol/momoka",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -583,7 +583,7 @@
                 "open_issues": 2,
                 "owner": "dabit3",
                 "repo": "lens-protocol-frontend",
-                "stars": 135,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29355,
+                "stars": 29353,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4452,
+                "stars": 4451,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-01T22:55:13Z",
+                "last_commit": "2026-10-02T17:26:41Z",
                 "open_issues": 7,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1400,7 +1400,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:54:53.742Z",
+    "last_updated": "2026-10-03T04:54:32.159Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",

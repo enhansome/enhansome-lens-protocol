@@ -91,7 +91,7 @@
 ### Examples
 
 * [API examples](https://github.com/lens-protocol/api-examples) ⭐ 260 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
-* [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 135 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
+* [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
 * [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-06 - Example application implementing gated Lens posts, encryption, and decryption.
 * [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-12 - A minimal example of using Lens Protocol to build a blog.
 * [lens-create-publication-example](https://github.com/dabit3/lens-create-publication-example) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2022-11-03 - An example project showing how to create a publication using withSig and typed data.
@@ -102,9 +102,9 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,355 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
-* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,452 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
-* [Wired](https://github.com/wired-labs/wired) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-10-01 - An open and decentralized web-based metaverse platform.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,353 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,451 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
+* [Wired](https://github.com/wired-labs/wired) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-10-02 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
