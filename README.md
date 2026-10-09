@@ -102,9 +102,9 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,349 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
-* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,451 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
-* [Wired](https://github.com/wired-labs/wired) ⭐ 115 | 🐛 7 | 🌐 Rust | 📅 2026-10-08 - An open and decentralized web-based metaverse platform.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,348 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,450 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
+* [Wired](https://github.com/wired-labs/wired) ⭐ 116 | 🐛 7 | 🌐 Rust | 📅 2026-10-08 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
@@ -124,8 +124,8 @@
 * [LensShareApp](https://github.com/nikomatt69/LensShareApp) ⭐ 6 | 🐛 63 | 🌐 TypeScript | 📅 2026-02-07 - A decentralised video sharing social platform built on Lens Protocol.
 * [Cultivator](https://github.com/maui-r/cultivator) ⭐ 5 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-06 - Explore the Lens Protocol Social Graph.
 * [Reroot](https://github.com/stuntzii/Reroot) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-27 - A browser extension for Twitter that lets you also post to Lens.
-* [Sepana](https://github.com/sepana-io/lens-search-frontend) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2022-04-04 - Search and explore its posts, people, and connections.
 * [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07 - Encrypt messages for a Lens Profile or their Followers.
+* [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 
 ### More Projects Built on Lens
 
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._

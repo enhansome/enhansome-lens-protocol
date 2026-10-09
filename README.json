@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29349,
+                "stars": 29348,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4451,
+                "stars": 4450,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -744,7 +744,7 @@
                 "open_issues": 7,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
-                "stars": 115,
+                "stars": 116,
                 "topics": [
                   "3d",
                   "bevy",
@@ -1242,27 +1242,6 @@
             },
             {
               "node_type": "item",
-              "title": "Sepana",
-              "description": "Search and explore its posts, people, and connections.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Search and discovery for Lens",
-                "homepage": null,
-                "id": 471936865,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2022-04-04T11:57:48Z",
-                "open_issues": 1,
-                "owner": "loudecho-ai",
-                "repo": "lens-search-frontend",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:57:34.844Z"
-            },
-            {
-              "node_type": "item",
               "title": "Encrypted Messaging for Lens",
               "description": "Encrypt messages for a Lens Profile or their Followers.",
               "children": [],
@@ -1400,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T16:43:11.322Z",
+    "last_updated": "2026-10-09T16:24:53.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
