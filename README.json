@@ -469,7 +469,7 @@
                     "open_issues": 8,
                     "owner": "lens-protocol",
                     "repo": "momoka",
-                    "stars": 257,
+                    "stars": 256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:34.844Z"
@@ -490,7 +490,7 @@
                     "open_issues": 8,
                     "owner": "lens-protocol",
                     "repo": "momoka",
-                    "stars": 257,
+                    "stars": 256,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:57:34.844Z"
@@ -507,7 +507,7 @@
                 "open_issues": 8,
                 "owner": "lens-protocol",
                 "repo": "momoka",
-                "stars": 257,
+                "stars": 256,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4449,
+                "stars": 4450,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:51:24.371Z",
+    "last_updated": "2026-10-12T19:11:47.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",

@@ -68,9 +68,9 @@
 
 > Momoka refers to an Optimistic L3 - a hybrid taking the best from both Optimistic Rollups and L3 technologies.
 
-* [Momoka](https://github.com/lens-protocol/momoka) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18 - Open source code showing how you can verify the DA claims are true.
-  * [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
-  * [Rust client](https://github.com/lens-protocol/momoka/tree/master/momoka-rs) ⭐ 257 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
+* [Momoka](https://github.com/lens-protocol/momoka) ⭐ 256 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18 - Open source code showing how you can verify the DA claims are true.
+  * [Node client](https://github.com/lens-protocol/momoka/tree/master/momoka-node) ⭐ 256 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
+  * [Rust client](https://github.com/lens-protocol/momoka/tree/master/momoka-rs) ⭐ 256 | 🐛 8 | 🌐 TypeScript | 📅 2025-09-18
 * [Momoka Explorer](https://github.com/lens-protocol/momoka-explorer) ⭐ 33 | 🐛 3 | 🌐 TypeScript | 📅 2024-04-30 - DA explorer for Lens.
 * [Momoka Explorer Web](https://momoka.lens.xyz/)
 
@@ -103,7 +103,7 @@
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
 * [Hey](https://github.com/heyverse/hey) ⭐ 29,349 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
-* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,449 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
+* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,450 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
 * [Wired](https://github.com/wired-labs/wired) ⭐ 117 | 🐛 7 | 🌐 Rust | 📅 2026-10-10 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
