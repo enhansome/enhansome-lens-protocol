@@ -70,7 +70,7 @@
                 "open_issues": 4,
                 "owner": "lens-protocol",
                 "repo": "react-native-lens-ui-kit",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29353,
+                "stars": 29351,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4450,
+                "stars": 4449,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-10T21:21:55Z",
+                "last_commit": "2026-10-13T18:58:15Z",
                 "open_issues": 7,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T17:02:55.555Z",
+    "last_updated": "2026-10-14T14:35:47.321Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
