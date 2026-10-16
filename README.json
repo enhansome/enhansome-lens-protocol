@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29352,
+                "stars": 29354,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4449,
+                "stars": 4448,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,8 +740,8 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-15T06:40:18Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-15T15:40:18Z",
+                "open_issues": 6,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 117,
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T14:16:27.805Z",
+    "last_updated": "2026-10-16T14:06:04.149Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
