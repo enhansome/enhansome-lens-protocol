@@ -91,7 +91,7 @@
                 "open_issues": 14,
                 "owner": "lens-protocol",
                 "repo": "lens-sdk",
-                "stars": 257,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -562,7 +562,7 @@
                 "open_issues": 18,
                 "owner": "lens-protocol",
                 "repo": "api-examples",
-                "stars": 260,
+                "stars": 259,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29354,
+                "stars": 29353,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -740,8 +740,8 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-15T15:40:18Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-16T23:14:48Z",
+                "open_issues": 3,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
                 "stars": 117,
@@ -778,7 +778,7 @@
                 "open_issues": 7,
                 "owner": "worldcoin",
                 "repo": "world-id-lens",
-                "stars": 106,
+                "stars": 105,
                 "topics": [
                   "managed-by-terraform"
                 ]
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:06:04.149Z",
+    "last_updated": "2026-10-17T13:04:31.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",

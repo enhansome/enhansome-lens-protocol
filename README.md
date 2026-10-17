@@ -37,7 +37,7 @@
 
 * [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,833 | 🐛 8 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
-* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 257 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-13 - Official Lens SDK ⭐️
+* [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-13 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 123 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
 * [lens-use](https://github.com/memester-xyz/lens-use) ⭐ 94 | 🐛 3 | 🌐 TypeScript | 📅 2023-01-10 - React hooks for Lens.
 * [use-lens](https://github.com/use-lens/use-lens) ⚠️ Archived - Simplify usage of Lens API with graphql-codegen.
@@ -90,7 +90,7 @@
 
 ### Examples
 
-* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 260 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
+* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 259 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
 * [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
 * [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-06 - Example application implementing gated Lens posts, encryption, and decryption.
 * [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-12 - A minimal example of using Lens Protocol to build a blog.
@@ -102,9 +102,9 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,354 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,353 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
 * [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,448 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
-* [Wired](https://github.com/wired-labs/wired) ⭐ 117 | 🐛 6 | 🌐 Rust | 📅 2026-10-15 - An open and decentralized web-based metaverse platform.
+* [Wired](https://github.com/wired-labs/wired) ⭐ 117 | 🐛 3 | 🌐 Rust | 📅 2026-10-16 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
