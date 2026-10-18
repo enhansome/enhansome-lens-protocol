@@ -49,7 +49,7 @@
                 "open_issues": 8,
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2833,
+                "stars": 2832,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -559,10 +559,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2025-09-18T10:44:13Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "lens-protocol",
                 "repo": "api-examples",
-                "stars": 259,
+                "stars": 258,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29353,
+                "stars": 29354,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4448,
+                "stars": 4447,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-16T23:14:48Z",
+                "last_commit": "2026-10-18T03:50:41Z",
                 "open_issues": 3,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1221,27 +1221,6 @@
             },
             {
               "node_type": "item",
-              "title": "Reroot",
-              "description": "A browser extension for Twitter that lets you also post to Lens.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A browser extension for twitter that lets you also post to lens",
-                "homepage": null,
-                "id": 495617468,
-                "language": "TypeScript",
-                "license": null,
-                "last_commit": "2022-06-27T15:45:56Z",
-                "open_issues": 1,
-                "owner": "stuntzii",
-                "repo": "Reroot",
-                "stars": 3,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:57:34.844Z"
-            },
-            {
-              "node_type": "item",
               "title": "Encrypted Messaging for Lens",
               "description": "Encrypt messages for a Lens Profile or their Followers.",
               "children": [],
@@ -1263,6 +1242,27 @@
                   "social-media",
                   "web3"
                 ]
+              },
+              "first_seen": "2026-08-28T20:57:34.844Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Reroot",
+              "description": "A browser extension for Twitter that lets you also post to Lens.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A browser extension for twitter that lets you also post to lens",
+                "homepage": null,
+                "id": 495617468,
+                "language": "TypeScript",
+                "license": null,
+                "last_commit": "2022-06-27T15:45:56Z",
+                "open_issues": 1,
+                "owner": "stuntzii",
+                "repo": "Reroot",
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
             }
@@ -1293,7 +1293,7 @@
             "open_issues": 0,
             "owner": "m1guelpf",
             "repo": "lens-leaderboard",
-            "stars": 32,
+            "stars": 31,
             "topics": []
           },
           "first_seen": "2026-08-28T20:57:34.844Z"
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:04:31.291Z",
+    "last_updated": "2026-10-18T13:24:34.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
@@ -1391,7 +1391,7 @@
       "open_issues": 0,
       "owner": "juancito-dev",
       "repo": "awesome-lens-protocol",
-      "stars": 231,
+      "stars": 230,
       "topics": [
         "awesome",
         "awesome-list",

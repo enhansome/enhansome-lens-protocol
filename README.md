@@ -35,7 +35,7 @@
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,833 | 🐛 8 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,832 | 🐛 8 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
 * [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 14 | 🌐 TypeScript | 📅 2026-10-13 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 123 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
@@ -90,7 +90,7 @@
 
 ### Examples
 
-* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 259 | 🐛 18 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
+* [API examples](https://github.com/lens-protocol/api-examples) ⭐ 258 | 🐛 17 | 🌐 TypeScript | 📅 2025-09-18 - Official API examples.
 * [Frontend examples](https://github.com/dabit3/lens-protocol-frontend) ⭐ 134 | 🐛 2 | 🌐 JavaScript | 📅 2023-05-04 - Example of a basic front end.
 * [lens-gated-publications](https://github.com/dabit3/lens-gated-publications) ⭐ 49 | 🐛 0 | 🌐 JavaScript | 📅 2023-01-06 - Example application implementing gated Lens posts, encryption, and decryption.
 * [Lens Blog](https://github.com/PatrickAlphaC/lens-blog) ⭐ 42 | 🐛 0 | 🌐 JavaScript | 📅 2022-12-12 - A minimal example of using Lens Protocol to build a blog.
@@ -102,9 +102,9 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,353 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
-* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,448 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
-* [Wired](https://github.com/wired-labs/wired) ⭐ 117 | 🐛 3 | 🌐 Rust | 📅 2026-10-16 - An open and decentralized web-based metaverse platform.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,354 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,447 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
+* [Wired](https://github.com/wired-labs/wired) ⭐ 117 | 🐛 3 | 🌐 Rust | 📅 2026-10-18 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 46 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
@@ -123,8 +123,8 @@
 * [Clipto](https://github.com/Clipto-Platform/clipto-frontend) ⭐ 6 | 🐛 2 | 🌐 TypeScript | 📅 2022-10-15 - Personalized videos from your favorite Creators.
 * [LensShareApp](https://github.com/nikomatt69/LensShareApp) ⭐ 6 | 🐛 63 | 🌐 TypeScript | 📅 2026-02-07 - A decentralised video sharing social platform built on Lens Protocol.
 * [Cultivator](https://github.com/maui-r/cultivator) ⭐ 5 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-06 - Explore the Lens Protocol Social Graph.
-* [Reroot](https://github.com/stuntzii/Reroot) ⭐ 3 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-27 - A browser extension for Twitter that lets you also post to Lens.
 * [Encrypted Messaging for Lens](https://github.com/GrgW/lens-encrypted-messaging-redacted) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-07 - Encrypt messages for a Lens Profile or their Followers.
+* [Reroot](https://github.com/stuntzii/Reroot) ⭐ 2 | 🐛 1 | 🌐 TypeScript | 📅 2022-06-27 - A browser extension for Twitter that lets you also post to Lens.
 * [Sepana](https://github.com/sepana-io/lens-search-frontend) - Search and explore its posts, people, and connections.
 
 ### More Projects Built on Lens
@@ -156,7 +156,7 @@
 
 ## Stats & Dashboards
 
-* [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) ⭐ 32 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-16 - Most followed, active, collected shared profiles.
+* [Leaderboards WithLens](https://github.com/m1guelpf/lens-leaderboard) ⭐ 31 | 🐛 0 | 🌐 TypeScript | 📅 2022-09-16 - Most followed, active, collected shared profiles.
 * [Lens Analytics by addresszero](https://github.com/addresszero/lensanalytics) ⭐ 17 | 🐛 19 | 🌐 TypeScript | 📅 2023-01-28 - Lens Protocol Explorer 📈🌿
 * [Lens Analytics by chiragbadhe](https://github.com/chiragbadhe/lensanalytics) ⭐ 5 | 🐛 6 | 🌐 TypeScript | 📅 2022-12-05 - Metrics On Lens Ecosystem.
 * [Lenstats](https://github.com/0xadewale/lens-stats) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2022-10-26 - Find stats about your community and organize giveaways.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
