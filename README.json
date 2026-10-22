@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-19T23:38:30Z",
+                "last_commit": "2026-10-21T21:09:29Z",
                 "open_issues": 3,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T14:33:44.313Z",
+    "last_updated": "2026-10-22T14:35:27.429Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
