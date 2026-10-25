@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29349,
+                "stars": 29351,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:27:05.399Z",
+    "last_updated": "2026-10-25T13:48:36.214Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
