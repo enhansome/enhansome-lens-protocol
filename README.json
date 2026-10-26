@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2832,
+                "stars": 2831,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 7,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29351,
+                "stars": 29353,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -839,7 +839,7 @@
               "description": "Minimalist microblogging platform.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "permanent. permissionless. paper.",
                 "homepage": null,
                 "id": 617937505,
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T13:48:36.214Z",
+    "last_updated": "2026-10-26T16:14:08.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",

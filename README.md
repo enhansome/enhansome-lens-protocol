@@ -35,7 +35,7 @@
 
 ### Libraries & Tools
 
-* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,832 | 🐛 9 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
+* [Contracts](https://github.com/lens-protocol/core/tree/main/contracts) ⭐ 2,831 | 🐛 9 | 🌐 Solidity | 📅 2025-09-18 - Lens Protocol contracts.
 * [React Native Lens UI Kit](https://github.com/lens-protocol/react-native-lens-ui-kit) ⭐ 497 | 🐛 4 | 🌐 TypeScript | 📅 2023-08-06 - Lens UI Kit for React Native.
 * [Lens SDK](https://github.com/lens-protocol/lens-sdk) ⭐ 258 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-24 - Official Lens SDK ⭐️
 * [lens.js](https://github.com/suhailkakar/lens.js) ⭐ 123 | 🐛 11 | 🌐 TypeScript | 📅 2023-01-09 - JavaScript SDK.
@@ -102,13 +102,13 @@
 
 > Add `lensprotocol` or `lens-protocol` tag to the repository for easy discoverability
 
-* [Hey](https://github.com/heyverse/hey) ⭐ 29,351 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
+* [Hey](https://github.com/heyverse/hey) ⭐ 29,353 | 🐛 7 | 🌐 TypeScript | 📅 2026-09-06 - Decentralized and permissionless social media app.
 * [Lenstube](https://github.com/lenstube-xyz/lenstube) ⭐ 4,449 | 🐛 38 | 🌐 TypeScript | 📅 2026-05-23 - Decentralized video-sharing social media platform.
 * [Wired](https://github.com/wired-labs/wired) ⭐ 118 | 🐛 3 | 🌐 Rust | 📅 2026-10-21 - An open and decentralized web-based metaverse platform.
 * [World ID Lens](https://github.com/worldcoin/world-id-lens) ⚠️ Archived - Human verification for Lens Protocol with World ID.
 * [Focalize](https://github.com/FocalizeApp/focalize-extension) ⭐ 45 | 🐛 1 | 🌐 Svelte | 📅 2025-12-15 - Quickly posting to Lens Protocol.
 * [Rally](https://github.com/rallydotfm/rally) ⭐ 45 | 🐛 3 | 🌐 TypeScript | 📅 2023-05-31 - Voice-based social app. Gather together to share, listen, learn and talk together in real time.
-* [Pingpad](https://github.com/pingpad-io/ping) ⭐ 42 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-03 - Minimalist microblogging platform.
+* [Pingpad](https://github.com/pingpad-io/ping) ⚠️ Archived - Minimalist microblogging platform.
 * [Lumiere](https://github.com/m1guelpf/lumiere) ⭐ 33 | 🐛 2 | 🌐 TypeScript | 📅 2022-11-03 - Web3 video platform.
 * [Inlens](https://github.com/0xJuancito/inlens) ⭐ 27 | 🐛 5 | 🌐 TypeScript | 📅 2023-08-10 - Find your friends from Twitter.
 * [re-meme](https://github.com/WeAreNewt/re-meme) ⭐ 23 | 🐛 64 | 🌐 TypeScript | 📅 2022-12-15 - The on-chain meme remixer.
@@ -183,4 +183,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
