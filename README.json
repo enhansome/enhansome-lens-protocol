@@ -723,7 +723,7 @@
                 "open_issues": 38,
                 "owner": "tapexyz",
                 "repo": "tape",
-                "stars": 4449,
+                "stars": 4450,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T15:28:17.133Z",
+    "last_updated": "2026-10-28T16:11:18.895Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
