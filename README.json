@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2832,
+                "stars": 2835,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -686,7 +686,7 @@
                 "open_issues": 8,
                 "owner": "slymnoyann",
                 "repo": "hey.xyz",
-                "stars": 29351,
+                "stars": 29350,
                 "topics": [
                   "blockchain",
                   "crypto",
@@ -1314,7 +1314,7 @@
             "open_issues": 19,
             "owner": "untitledlabshq",
             "repo": "lensanalytics",
-            "stars": 17,
+            "stars": 16,
             "topics": [
               "analytics",
               "graphql",
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:07:12.057Z",
+    "last_updated": "2026-10-31T15:26:38.040Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
