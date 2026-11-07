@@ -49,7 +49,7 @@
                 "open_issues": 9,
                 "owner": "lens-protocol",
                 "repo": "core",
-                "stars": 2837,
+                "stars": 2838,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T16:51:48.667Z",
+    "last_updated": "2026-11-07T15:48:47.174Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
