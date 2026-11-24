@@ -70,7 +70,7 @@
                 "open_issues": 4,
                 "owner": "lens-protocol",
                 "repo": "react-native-lens-ui-kit",
-                "stars": 497,
+                "stars": 496,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:57:34.844Z"
@@ -740,7 +740,7 @@
                 "id": 439941628,
                 "language": "Rust",
                 "license": "MPL-2.0",
-                "last_commit": "2026-11-23T17:21:31Z",
+                "last_commit": "2026-11-23T22:56:38Z",
                 "open_issues": 4,
                 "owner": "unavi-xyz",
                 "repo": "unavi",
@@ -1379,7 +1379,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T21:35:29.768Z",
+    "last_updated": "2026-11-24T20:15:56.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Lens Protocol projects, resources, libraries, tools and more",
